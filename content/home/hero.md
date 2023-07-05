@@ -22,6 +22,7 @@ design:
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
     text_color_light: false
+    image: ""
 hero_media: teacher.png
 ---
 ## Bem-vindo ao Museu Digital de Campina Grande
